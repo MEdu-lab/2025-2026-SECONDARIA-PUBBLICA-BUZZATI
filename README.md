@@ -13,14 +13,14 @@ maestri:
   qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
   ruolo: coordinatore
 maestri-width: '0.3'
-subtitle: Scuola Secondaria di I grado D. Buzzati - 2025/2026
+subtitle: Scuola Secondaria di I grado IC Largo Dino Buzzati - 2025/2026
 title: Play Your Rights
 ---
 
 Con il laboratorio Play Your Rights, modulo che ha visto un perfezionamento in itinere con uno storico pluriennale in altre scuole pubbliche della capitale, vogliamo catapultare gli studenti nel mondo della musica d'insieme.
 Accedere alla scuola secondaria significa accrescere la consapevolezza di partecipare ad
 una comunità con le sue regole, i suoi doveri, ma anche i suoi diritti.
-Il laboratorio presso la Scuola Secondaria di I grado D. Buzzati potrebbe essere focalizzato sull’educazione civica e
+Il laboratorio presso la Scuola Secondaria di I grado IC Largo Dino Buzzati potrebbe essere focalizzato sull’educazione civica e
 consistere nello strutturare una performance di musica popolare: rock, pop, hip hop, elettronica. In questo
 modulo simuliamo la preparazione di un concerto che veicoli i valori della
 costituzione, partendo da alcuni esempi di “buone pratiche” scolastiche e progetti già
