@@ -1,24 +1,23 @@
 ---
 documentclass: article
-gruppo: A cura di MEduLab
+gruppo: MEduLab
 maestri:
 - nome: Pietro Barale
   qualifica: diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia,
     Roma
   ruolo: operatore
 - nome: Giulio Romano De Mattia
-  qualifica: ' diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma'
+  qualifica: diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma
   ruolo: operatore
 - nome: Marco Di Gasbarro
   qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
   ruolo: coordinatore
 maestri-width: '0.3'
-subtitle: Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore
-  Quasimodo - 2025/2026
-title: Piccoli esploratori sonori
+subtitle: Scuola Secondaria di I grado D. Buzzati - 2025/2026
+title: Play Your Rights
 ---
 
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore Quasimodo. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
+Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la Scuola Secondaria di I grado D. Buzzati. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
 Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
 
 \vspace{.7cm}
@@ -30,7 +29,7 @@ Nella progettazione di esperienze di apprendimento significative cerchiamo l'inn
 
 - **Pietro Barale** - diplomato in Musica Applicata alle immagini, Conservatorio di Santa Cecilia, Roma
 
-- **Giulio Romano De Mattia** -  diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma
+- **Giulio Romano De Mattia** - diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma
 
 - **Marco Di Gasbarro** - dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
 
@@ -40,7 +39,7 @@ Nella progettazione di esperienze di apprendimento significative cerchiamo l'inn
 
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
-Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di 8-12 partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
+Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di 6-9 bambini partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
 
 Quest'anno intendiamo consolidare l'approccio intrapreso, personalizzando il metodo progettato per adattarlo alle specificità di ogni bambino, concentrandosi sulle diverse modalità di apprendimento e supportando chi incontra particolari sfide nello svolgimento delle attività musicali.     
 
