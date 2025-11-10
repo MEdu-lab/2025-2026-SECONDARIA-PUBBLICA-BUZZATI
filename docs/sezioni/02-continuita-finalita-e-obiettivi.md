@@ -4,7 +4,7 @@ In linea con il percorso perseguito lo scorso anno, il progetto intende utilizza
 
 Finalità generali:    
 
-- Promuovere la musica come linguaggio universale di espressione culturale, inclusione sociale e dialogo tra pari.
+- Promuovere la musica come linguaggio universale di espressione culturale, **inclusione sociale** e dialogo tra pari.
   
 - Favorire l’acquisizione di competenze trasversali (collaborazione, pensiero critico, creatività, comunicazione) riconosciute nei framework europei.
   
@@ -14,7 +14,7 @@ Obiettivi specifici:
 
 - Stimolare la condivisione e la collaborazione tra studenti attraverso la co-creazione musicale.
   
-- Sviluppare pensiero critico e capacità di lettura attiva dei testi costituzionali, collegandoli alla realtà quotidiana dei giovani.
+- Sviluppare **pensiero critico** e capacità di lettura attiva dei testi costituzionali, collegandoli alla realtà quotidiana dei giovani.
   
-- Promuovere la cittadinanza attiva e la partecipazione responsabile, rendendo i principi costituzionali vivi e accessibili attraverso la musica e la performance pubblica.
+- Promuovere la **cittadinanza attiva** e la partecipazione responsabile, rendendo i principi costituzionali vivi e accessibili attraverso la musica e la performance pubblica.
   
