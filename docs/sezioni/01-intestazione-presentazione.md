@@ -9,6 +9,6 @@ effettuati.
 
 \vspace{.2cm}
 
->*La musica arricchisce l’educazione dei nostri studenti, aiutandoli a creare connessioni e ad ampliare la profondità con cui pensano e sentono. Se vogliamo sperare in una società di persone formate culturalmente, la musica deve essere una parte vitale dell’educazione dei nostri figli.* (Yo-Yo Ma)
+>*La musica arricchisce l’educazione dei nostri ragazzi, aiutandoli a creare connessioni e ad ampliare la profondità con cui pensano e sentono. Se vogliamo sperare in una società di persone formate culturalmente, la musica deve essere una parte vitale dell’educazione dei nostri figli.* (Yo-Yo Ma)
 
 \vspace{.5cm}
