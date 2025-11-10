@@ -7,6 +7,8 @@ modulo simuliamo la preparazione di un concerto che veicoli i valori della
 costituzione, partendo da alcuni esempi di “buone pratiche” scolastiche e progetti già
 effettuati.
 
-\vspace{.7cm}
+\vspace{.2cm}
 
 >*La musica arricchisce l’educazione dei nostri bambini, aiutandoli a creare connessioni e ad ampliare la profondità con cui pensano e sentono. Se vogliamo sperare in una società di persone formate culturalmente, la musica deve essere una parte vitale dell’educazione dei nostri figli.* (Yo-Yo Ma)
+
+\vspace{.5cm}
