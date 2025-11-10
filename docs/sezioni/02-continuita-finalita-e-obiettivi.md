@@ -1,6 +1,6 @@
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
-In linea con il percorso perseguito lo scorso anno, il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
+**In piena continuità con il percorso pluriennale sviluppatosi nell'istituto – dai laboratori di percussioni e live coding al progetto "Inventare la musica a Tempo Zero"** – il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
 
 Finalità generali:    
 
