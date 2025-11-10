@@ -31,7 +31,9 @@ effettuati.
 >*La musica arricchisce l’educazione dei nostri bambini, aiutandoli a creare connessioni e ad ampliare la profondità con cui pensano e sentono. Se vogliamo sperare in una società di persone formate culturalmente, la musica deve essere una parte vitale dell’educazione dei nostri figli.* (Yo-Yo Ma)
 
 
-Il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
+## CONTINUITÀ, FINALITÀ E OBIETTIVI
+
+In linea con il percorso perseguito lo scorso anno, il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
 
 Finalità generali:    
 
@@ -63,6 +65,8 @@ La pratica musicale si sviluppa attraverso l’integrazione di **voce, testo e m
 
 Questa pluralità di strumenti consente un’esperienza **inclusiva, creativa e interdisciplinare**, dove ogni studente può trovare il proprio ruolo espressivo. L’utilizzo delle tecnologie digitali apre inoltre spazi di **innovazione e sperimentazione**, favorendo lo sviluppo di **competenze trasversali** come collaborazione, pensiero critico e creatività.
 
+
+---
 
 La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
 
