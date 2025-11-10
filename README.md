@@ -70,7 +70,6 @@ Questa pluralità di strumenti consente un’esperienza **inclusiva, creativa e 
 
 ---
 
-La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
-
+Il laboratorio si svolgerà con un incontro settimanale di 2 ore. La giornata dedicata (venerdì o sabato) verrà concordata con la scuola, assicurando una cadenza fissa settimanale nel giorno prescelto (escluse le festività).
 
 
