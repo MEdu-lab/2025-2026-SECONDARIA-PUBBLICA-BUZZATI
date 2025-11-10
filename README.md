@@ -64,10 +64,6 @@ La pratica musicale si sviluppa attraverso l’integrazione di **voce, testo e m
 Questa pluralità di strumenti consente un’esperienza **inclusiva, creativa e interdisciplinare**, dove ogni studente può trovare il proprio ruolo espressivo. L’utilizzo delle tecnologie digitali apre inoltre spazi di **innovazione e sperimentazione**, favorendo lo sviluppo di **competenze trasversali** come collaborazione, pensiero critico e creatività.
 
 
-
-
----
-
 La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
 
 
