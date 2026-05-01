@@ -80,7 +80,16 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref_name }}
-        
+
+    - name: Trigger presentation site rebuild
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      uses: peter-evans/repository-dispatch@v3
+      with:
+        token: ${{ secrets.PRESENTATION_DISPATCH_TOKEN }}
+        repository: MEdu-lab/medulab-presentation
+        event-type: school-updated
+        client-payload: '{"source_repo": "${{ github.repository }}"}'
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
