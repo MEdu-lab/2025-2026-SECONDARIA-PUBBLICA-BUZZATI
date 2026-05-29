@@ -9,10 +9,7 @@ maestri:
 - nome: Giulio Romano De Mattia
   qualifica: diplomato in Musica Elettronica, Conservatorio di Santa Cecilia, Roma
   ruolo: operatore
-- nome: Marco Di Gasbarro
-  qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
-  ruolo: coordinatore
-maestri-width: '0.3'
+maestri-width: '0.45'
 subtitle: Scuola Secondaria di I grado IC Largo Dino Buzzati - 2025/2026
 title: Play Your Rights
 ---
