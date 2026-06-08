@@ -413,6 +413,7 @@ $endfor$
 
 % Pacchetti necessari
 \usepackage{etoolbox}
+\usepackage{graphicx}
 \usepackage[hmargin=2cm, vmargin=2.5cm]{geometry}
 
 % Title formatting
