@@ -29,6 +29,10 @@ effettuati.
 
 \vspace{.5cm}
 
+\begin{center}
+\includegraphics[width=0.9\textwidth]{images/output1.jpg}
+\end{center}
+
 
 ## CONTINUITÀ, FINALITÀ E OBIETTIVI
 
