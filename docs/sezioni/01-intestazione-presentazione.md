@@ -13,6 +13,6 @@ effettuati.
 
 \vspace{.5cm}
 
-\begin{center}
-\includegraphics[width=0.9\textwidth]{images/output1.jpg}
+\begin{center} 
+\includegraphics[width=1.0\textwidth, height=12cm, keepaspectratio]{images/output1.jpg} 
 \end{center}
